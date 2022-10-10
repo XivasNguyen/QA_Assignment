@@ -1,0 +1,11 @@
+{
+  "User_Can_Transfer_Between_Accounts": {
+    "user": "Mary Johnson",
+    "debitFrom": "EBQ11123412345",
+    "creditTo": "EBQ12123423456",
+    "amount": "100",
+    "description" : "Admin user triggered auto transfer with amount %s",
+    "successMessage": "Transfer has been executed successfully."
+  }
+}
+
